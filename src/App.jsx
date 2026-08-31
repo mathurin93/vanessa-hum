@@ -37,14 +37,14 @@ const portfolioProjects = [
     title: 'Oresta',
     location: 'Ottawa, ON',
     category: 'Chalkboards & Signage',
-    image: 'Oresta - Ottawa, ON.jpeg',
+    image: 'Oresta - Ottawa, ON.jpg',
     size: 'wide',
   },
   {
     title: 'Ottawa Valley Wild Bird Care Centre',
     location: 'Ottawa, ON',
     category: 'Community Art',
-    image: 'Ottawa Valley Wild Bird Care Centre - Ottawa, ON.jpeg',
+    image: 'Ottawa Valley Wild Bird Care Centre - Ottawa, ON.jpg',
     size: 'medium',
   },
   {
