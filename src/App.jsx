@@ -413,17 +413,12 @@ function App() {
             </div>
 
             <div className="conservation-visual">
-              <img
-                src={imageUrl('university main picture.jpeg')}
-                alt="Large bird-friendly window artwork"
-                loading="lazy"
-              />
-
-              <div className="conservation-caption">
-                <BirdIcon />
-                <p>Art that helps make windows safer and conservation more visible.</p>
-              </div>
-            </div>
+  <img
+    src={imageUrl('University of Ottawa - Ottawa, ON 2.jpeg')}
+    alt="Bird-friendly window mural created by Vanessa at the University of Ottawa"
+    loading="lazy"
+  />
+</div>
           </div>
         </section>
 
