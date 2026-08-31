@@ -37,7 +37,7 @@ const portfolioProjects = [
     title: 'Oresta',
     location: 'Ottawa, ON',
     category: 'Chalkboards & Signage',
-    image: 'Oresta - Ottawa, ON.jpg',
+    image: 'Oresta - Ottawa, ON.jpeg',
     size: 'wide',
   },
   {
