@@ -1,7 +1,8 @@
-
+import { useEffect, useMemo, useState } from 'react';
 import { siteConfig } from './siteData.js';
 
-const imageUrl = (filename) => `${import.meta.env.BASE_URL}images/${filename}`;
+const imageUrl = (filename) =>
+  `${import.meta.env.BASE_URL}images/${filename}`;
 
 const portfolioProjects = [
   {
